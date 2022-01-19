@@ -1,22 +1,17 @@
 {
  "questions": [{
   "question": "What is the scientific name of a butterfly?",
-  "answers": [
-   "apis","coleoptera","formicidae", "rhopalocera"],
+  "answers": ["apis","coleoptera","formicidae", "rhopalocera"],
   "correct": 3
  },
   {
    "question": "What is the scientific name of a butterfly?",
-   "answers": [
-    "apis","coleoptera","formicidae",
-    "rhopalocera"],
-   "correct": 3,
+   "answers": ["apis","coleoptera","formicidae","rhopalocera"],
+   "correct": 3
   },
-{
+ {
    "question": "What is the scientific name of a butterfly?",
-   "answers": [
-    "apis","coleoptera","formicidae",
-    "rhopalocera"],
+   "answers": ["apis","coleoptera","formicidae","rhopalocera"],
    "correct": 3
   }
 ]
