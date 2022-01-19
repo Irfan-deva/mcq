@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/styles.css" rel="stylesheet">
+  </head>
+  <body>
+<header>
+  <h1>Todo List</h1>
+</header>
+
+    <form class="todo-container">
+      <input type="text" class="todo-input">
+      <button type="button" class="todo-button">Add Task</button>
+    </form>
+    
+	<div class="task-div">
+      <ul id="task-list"></ul>
+    </div>
+	
+	<script>
+      //selectors
+     const inputText=document.getElementById("todo-input");
+     const button=document.getElementById("todo-button");
+     const taskList=document.getElementById("task-list");
+     
+      //eventlisteners
+      button.addEventListener("click", addTask);
+      
+      //functions
+	function addTask(){
+    var listItem=document.createElement("li");
+    listItem.innerHTML=inputText.value;
+    listItem.classList.add("list-item");
+    taskList.appendChild(listItem);
+    inputText.value="";
+    }
+     
+	</script>
+  </body>
+  
+</html>		
