@@ -1,8 +1,8 @@
 {
  "questions": [{
-  "question": "What is the scientific name of a butterfly?",
-  "answers": ["apis","coleoptera","formicidae", "rhopalocera"],
-  "correct": 3
+  "question": "Under which of the following ruler's reign, became the language of the court, in Kashmir?",
+  "answers": ["Zainul Abieen","Sultan Sikandar","Shah Mir", "None of these"],
+  "correct": 1
  },
   {
    "question": "What is the scientific name of a butterfly?",
