@@ -1,17 +1,17 @@
 {
  "questions": [{
-  "question": "Under which of the following ruler's reign, became the language of the court, in Kashmir?",
+  "question": "Under which of the following ruler's reign, became the language of the court, in Kashmir:",
   "answers": ["Zainul Abieen","Sultan Sikandar","Shah Mir", "None of these"],
   "correct": 1
  },
   {
-   "question": "According to Mahabharata evidences, who ruled over the region during the epical times and hadRepublican SystemofGovernment?",
+   "question": "According to Mahabharata evidences, who ruled over the region during the epical times and had Republican System of Government?",
    "answers": ["Kalhana","Lalitaditya","Durlabhvardhan","Jayapida"],
-   "correct": 3
+   "correct": 2
   },
  {
-   "question": "What is the scientific name of a butterfly?",
-   "answers": ["apis","coleoptera","formicidae","rhopalocera"],
+   "question": "The lower Karewas points to which age:",
+   "answers": ["Neolithic age","Megalithic age","Pleistocene age","None of the above"],
    "correct": 3
   }]
 }
