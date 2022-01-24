@@ -11,7 +11,7 @@
   },
  {
    "question": "The lower Karewas points to which age:",
-   "answers": ["Neolithic age","Megalithic age","Pleistocene age","None of the above"],
+   "answers": ["Neolithic age","dummy option","Megalithic age","Pleistocene age","None of the above"],
    "correct": 3
   },
 {
@@ -21,7 +21,7 @@
 },
 {
 "question":"According to Mahabharata evidences, who ruled over the region during the epical times and had Republican System of Government:",
-"answers":["Peer Zada Hassan","Kamboj","Gonanda","None of these"],
+"answers":["Peer Zada Hassan","Kamboj","Gonanda","Dummy option","None of these"],
 "correct":2
 }
 ]
