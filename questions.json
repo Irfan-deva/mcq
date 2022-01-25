@@ -1,29 +1,38 @@
 {
- "questions": [{
-  "question": "Under which of the following ruler's reign, became the language of the court, in Kashmir:",
-  "answers": ["Zainul Abieen","Sultan Sikandar","Shah Mir", "None of these"],
-  "correct": 1
- },
-  {
-   "question": "who was the first historian of Kashmir:",
-   "answers": ["Kalhana","Lalitaditya","Durlabhvardhan","Jayapida"],
-   "correct": 2
-  },
- {
-   "question": "The lower Karewas points to which age:",
-   "answers": ["Neolithic age","dummy option","Megalithic age","Pleistocene age","None of the above"],
-   "correct": 3
-  },
-{
-"question":"The earliest archeological site of India is:",
-"answers":["Begagund","Gofkral","Pampur","Burzahom"],
-"correct":5
-},
-{
-"question":"According to Mahabharata evidences, who ruled over the region during the epical times and had Republican System of Government:",
-"answers":["Peer Zada Hassan","Kamboj","Gonanda","Dummy option","None of these"],
-"correct":2
+	"questions": [{
+			"question": "Under which of the following ruler's reign, became the language of the court, in Kashmir:",
+			"answers": ["Zainul Abideen", "Sultan Sikandar", "Shah Mir", "None of these"],
+			"correct": 1,
+			"isImageType": false,
+			"cat": "General Knowledge"
+		},
+		{
+			"question": "who was the first historian of Kashmir:",
+			"answers": ["Kalhana", "Lalitaditya", "Durlabhvardhan", "Jayapida"],
+			"correct": 2,
+			"isImageType": false,
+			"cat": "General Knowledge"
+		},
+		{
+			"question": "The lower Karewas points to which age:",
+			"answers": ["Neolithic age", "dummy option", "Megalithic age", "Pleistocene age", "None of the above"],
+			"correct": 3,
+			"isImageType": false,
+			"cat": "General Knowledge"
+		},
+		{
+			"question": "The earliest archeological site of India is:",
+			"answers": ["Begagund", "Gofkral", "Pampur", "Burzahom"],
+			"correct": 5,
+			"isImageType": false,
+			"cat": "General Knowledge"
+		},
+		{
+			"question": "According to Mahabharata evidences, who ruled over the region during the epical times and had Republican System of Government:",
+			"answers": ["Peer Zada Hassan", "Kamboj", "Gonanda", "Dummy option", "None of these"],
+			"correct": 2,
+			"isImageType": false,
+			"cat": "General Knowledge"
+		}
+	]
 }
-]
-}
-
